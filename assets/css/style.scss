@@ -3,13 +3,13 @@
 
 @import "{{ site.theme }}";
 
-a:hover, a:focus normal {
+a:hover, a:focus strong {
   color:#069;
-  font-weight:normal;
+  font-weight:bold;
 }
 
-.downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+a:hover, a:focus {
+  color:#069;
   font-weight:normal;
 }
 
