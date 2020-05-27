@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+}
+
+h1 a:hover, h1 a:focus {
+  color:#069;
+  font-weight: bold;
+}
+
 header {
   width:220px;
   float:left;
