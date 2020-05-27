@@ -8,7 +8,7 @@ I received my PhD from the University of Basel in 2014. You can download my **CV
 
 **Publications**
 - *Eternal Peace in the Tug-of-War?*  
-**Economic Theory** (accepted for publication), 2020.
+**Economic Theory**, 2020 (accepted for publication).
 - *[Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8)* (with Georg Nöldeke).  
 **Economic Theory**, 2019 (online first).
 - *[Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006)*.  
