@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
-a:hover, a:focus strong {
-  color:#069;
-  font-weight:bold;
-}
-
 a:hover, a:focus {
   color:#069;
   font-weight:normal;
+}
+
+a:hover, a:focus strong {
+  color:#069;
+  font-weight:bold;
 }
 
 header {
