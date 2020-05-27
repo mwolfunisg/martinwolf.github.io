@@ -4,7 +4,7 @@ My **research interests** are in **(applied) microeconomic theory**, with a focu
 
 I received my PhD from the University of Basel in 2014. You can download my **CV** by clicking [here](https://samuelhaefner.github.io/files/cvhaefner.pdf).
 
-## Publications
+### Publications
 - **Eternal Peace in the Tug-of-War?**  
 *Economic Theory*, 2020 (accepted for publication).
 - **[Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8)** (with Georg Nöldeke).  
@@ -17,7 +17,7 @@ I received my PhD from the University of Basel in 2014. You can download my **CV
 *Games*, Volume 7(3), 2016, p. 25.
 
 
-## Current Research:
+### Current Research:
 - **[Angels in the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033)**.  
 First Version: March 2020. Latest Version: May 2020.  
 - **[On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927)** (with Curtis Taylor).  
@@ -28,12 +28,11 @@ First Version: March 2020. Latest Version: May 2020.
 - **[Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534)** (with Yvan Lengwiler).  
  First Version: November 2018. Latest Version: May 2020. 
 
-## Work in Progress
+### Work in Progress
 - References (with Curtis Taylor).
 - Sisyphean Contests (with Georg Nöldeke).
 
-## Teaching
-
+### Teaching
 - *Introduction to Game Theory* (B.Sc.).  
 University of Zurich. Fall terms 2017-18. 
 - *Contract Theory* (M.Sc.).  
