@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+a {
+  color:#267CB9;
+  text-decoration:none;
+  font-weight:bold;
+}
+
 header {
   width:220px;
   float:left;
