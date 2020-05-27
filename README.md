@@ -1,6 +1,6 @@
-I am a **Postdoc** at the **[School of Economics and Political Science](https://seps.unisg.ch)** of the **[University of St. Gallen](https://www.unisg.ch)**.
+I am a Postdoc at the **[School of Economics and Political Science](https://seps.unisg.ch)** of the **[University of St. Gallen](https://www.unisg.ch)**.
 
-My **research interests** are in **(applied) microeconomic theory**, with a focus on **contract theory** and **dynamic contests**. I am also interested in the **structural estimation of auctions**.
+My **research interests** are in **(applied) microeconomic theory**, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
 I received my PhD from the University of Basel in 2014. You can download my **CV** by clicking [here](https://samuelhaefner.github.io/cvhaefner.pdf).
 
