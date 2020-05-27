@@ -8,7 +8,12 @@ a:hover, a:focus {
   font-weight:normal;
 }
 
-a:hover strong, a:focus strong {
+a:hover strong {
+  color:#069;
+  font-weight:bold;
+}
+
+a:focus strong {
   color:#069;
   font-weight:bold;
 }
