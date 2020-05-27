@@ -9,7 +9,7 @@ I received my PhD from the University of Basel in 2014. You can download my CV b
 *Economic Theory*, 2020 (accepted for publication).
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with Georg Nöldeke).  
 *Economic Theory*, 2019 (online first).
-- Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
+- [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 *Games and Economic Behavior*, 107, 2018, pp. 109-122.
 - [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
 *Games and Economic Behavior*, 104, 2017, pp. 372-391.
