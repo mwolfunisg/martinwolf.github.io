@@ -8,15 +8,15 @@ I received my PhD from the University of Basel in 2014. You can download my **CV
 
 **Publications**
 - *Eternal Peace in the Tug-of-War?*  
-**Economic Theory**, 2020 (accepted for publication).
+*Economic Theory*, 2020 (accepted for publication).
 - *[Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8)* (with Georg Nöldeke).  
-**Economic Theory**, 2019 (online first).
+*Economic Theory*, 2019 (online first).
 - *[Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006)*.  
-**Games and Economic Behavior**, 107, 2018, pp. 109-122.
+*Games and Economic Behavior*, 107, 2018, pp. 109-122.
 - *[A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013)*.  
-**Games and Economic Behavior**, 104, 2017, pp. 372-391.
+*Games and Economic Behavior*, 104, 2017, pp. 372-391.
 - *[Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf)* (with Georg Nöldeke).  
-**Games**, Volume 7(3), 2016, p. 25.
+*Games*, Volume 7(3), 2016, p. 25.
 
 ---
 
