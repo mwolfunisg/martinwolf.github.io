@@ -2,8 +2,6 @@ I am a Postdoc at the [School of Economics and Political Science](https://seps.u
 
 My research interests are in (applied) microeconomic theory, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
-I received my PhD from the University of Basel in 2014.
-
 ### Publications
 - Eternal Peace in the Tug-of-War?  
 *Economic Theory*, 2020 (accepted for publication).
