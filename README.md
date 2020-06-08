@@ -20,7 +20,7 @@ My research interests are in (applied) microeconomic theory, with a focus on con
 First Version: March 2020. Latest Version: May 2020.  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with Curtis Taylor).  
  First Version: August 2018. Latest Version: September 2019. *R&R RAND*.   
-- [Determining Risk Aversion in Share Auctions](https://dx.doi.org/10.2139/ssrn.3397027).  
+- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://dx.doi.org/10.2139/ssrn.3397027).  
 First Version: May 2019. Latest Version: June 2020.  
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with Yvan Lengwiler).  
