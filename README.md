@@ -3,8 +3,8 @@ I am a Postdoc at the [School of Economics and Political Science](https://seps.u
 My research interests are in (applied) microeconomic theory, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
 ### Publications
-- Eternal Peace in the Tug-of-War?  
-*Economic Theory*, 2020 (accepted for publication).
+- [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
+*Economic Theory*, 2020 (online first).
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with Georg Nöldeke).  
 *Economic Theory*, 2019 (online first).
 - [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
