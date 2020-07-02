@@ -1,6 +1,6 @@
 I am a Postdoc at the [School of Economics and Political Science](https://seps.unisg.ch) of the [University of St. Gallen](https://www.unisg.ch).
 
-I also work as a Research Scientist for the [Web3 Foundation](https://web3.foundation/).
+I also work as a Research Scientist for the [Web3 Foundation](https://web3.foundation/) in Zug.
 
 My research interests are in (applied) microeconomic theory, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
