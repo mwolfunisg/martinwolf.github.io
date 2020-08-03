@@ -19,7 +19,7 @@ My research interests are in (applied) microeconomic theory, with a focus on con
 
 ### Current Research:
 - [Crossing the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
-First Version: March 2020. Latest Version: July 2020.  
+First Version: March 2020. Latest Version: August 2020.  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with Curtis Taylor).  
  First Version: August 2018. Latest Version: September 2019. *R&R RAND*.   
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
