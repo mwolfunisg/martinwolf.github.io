@@ -29,8 +29,8 @@ First Version: May 2019. Latest Version: August 2020.
  First Version: November 2018. Latest Version: May 2020. 
 
 ### Work in Progress
-- References (with Curtis Taylor).
-- Sisyphean Contests (with Georg Nöldeke).
+- Contracting with References (with Curtis Taylor).
+- Sisyphean Litigation (with Georg Nöldeke).
 
 ### Teaching
 - *Introduction to Game Theory* (B.Sc.).  
@@ -41,3 +41,5 @@ University of Basel. Spring terms 2014-15, 16, 18.
 University of Basel. Fall terms 2011-12, 14-15, 17-18. 
 - *Insurance Economics* (B.Sc., "Versicherungsökonomie'', in German).  
 University of Basel. Spring terms 2015-16, 18-19.
+- *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, tutoring only).  
+University of St. Gallen. Fall term 2020.
