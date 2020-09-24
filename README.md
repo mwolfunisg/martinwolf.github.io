@@ -41,5 +41,5 @@ University of Basel. Spring terms 2014-15, 16, 18.
 University of Basel. Fall terms 2011-12, 14-15, 17-18. 
 - *Insurance Economics* (B.Sc., "Versicherungsökonomie'', in German).  
 University of Basel. Spring terms 2015-16, 18-19.
-- *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, [tutoring](https://sites.google.com/view/hsg-mikro-ii-uebungen-2020) only).  
+- *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, tutoring only).  
 University of St. Gallen. Fall term 2020.
