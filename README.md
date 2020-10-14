@@ -30,7 +30,8 @@ First Version: May 2019. Latest Version: August 2020.
 
 ### Work in Progress
 - Contracting with References (with Curtis Taylor).
-- Sisyphean Litigation (with Georg Nöldeke).
+- Candle Auctions (with Alistair Stewart).
+- Information Exchange (with Florian Dendorfer).
 
 ### Teaching
 - *Introduction to Game Theory* (B.Sc.).  
