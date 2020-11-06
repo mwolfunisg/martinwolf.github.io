@@ -2,6 +2,8 @@ I am a Postdoc at the [School of Economics and Political Science](https://seps.u
 
 I also work as a Research Scientist for the [Web3 Foundation](https://web3.foundation/) in Zug.
 
+I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
+
 My research interests are in (applied) microeconomic theory, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
 ### Publications
