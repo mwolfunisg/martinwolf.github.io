@@ -20,6 +20,8 @@ My research interests are in (applied) microeconomic theory, with a focus on con
 
 
 ### Current Research:
+- [Working for References](https://ssrn.com/abstract=3746426) (with Curtis Taylor).  
+First Version: December 2020.
 - [Crossing the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: August 2020.  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with Curtis Taylor).  
@@ -31,7 +33,6 @@ First Version: May 2019. Latest Version: August 2020.
  First Version: November 2018. Latest Version: May 2020. 
 
 ### Work in Progress
-- Contracting with References (with Curtis Taylor).
 - Candle Auctions (with Alistair Stewart).
 - Information Exchange (with Florian Dendorfer).
 
