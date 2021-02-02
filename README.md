@@ -1,10 +1,7 @@
-I am a Postdoc at the [School of Economics and Political Science](https://seps.unisg.ch) of the [University of St. Gallen](https://www.unisg.ch).
+I am Research (Crypto-)Economist at the [Web3 Foundation](https://web3.foundation/) in Zug.
 
-I also work as a Research Scientist for the [Web3 Foundation](https://web3.foundation/) in Zug.
+I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch) and the [Institute of Economics](https://fgn.unisg.ch) at the University of St. Gallen.
 
-I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
-
-My research interests are in (applied) microeconomic theory, with a focus on contract theory and dynamic contests. I am also interested in the structural estimation of auctions.
 
 ### Publications
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
@@ -32,9 +29,6 @@ First Version: May 2019. Latest Version: August 2020.
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
  First Version: November 2018. Latest Version: May 2020. 
 
-### Work in Progress
-- Candle Auctions (with [Alistair Stewart](https://research.web3.foundation/en/latest/research_team_members/alistair.html)).
-- Information Exchange (with [Florian Dendorfer](https://fgn.unisg.ch/en/personenverzeichnis/7e30e30d-ca87-44ff-8ba5-d178ed6a2d75)).
 
 ### Teaching
 - *Introduction to Game Theory* (B.Sc.).  
