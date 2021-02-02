@@ -1,4 +1,6 @@
-I am Research Economist at the [Web3 Foundation](https://web3.foundation/) in Zug.
+I am Research Economist at the [Web3 Foundation](https://web3.foundation/) in Zug. I analyze incentives in blockchain markets and in cryptographic protocols.
+
+I am a microeconomist by training. My main interests are in contract theory, contest theory, and auction theory.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch) and the [Institute of Economics](https://fgn.unisg.ch) at the University of St. Gallen.
 
