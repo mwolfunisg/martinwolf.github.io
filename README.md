@@ -1,4 +1,4 @@
-I am Research (Crypto-)Economist at the [Web3 Foundation](https://web3.foundation/) in Zug.
+I am Research Economist at the [Web3 Foundation](https://web3.foundation/) in Zug.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch) and the [Institute of Economics](https://fgn.unisg.ch) at the University of St. Gallen.
 
