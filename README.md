@@ -26,7 +26,7 @@ First Version: March 2020. Latest Version: August 2020.
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
  First Version: August 2018. Latest Version: September 2019. *R&R RAND*.   
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
-First Version: May 2019. Latest Version: February 2021.   
+First Version: May 2019. Latest Version: April 2021.   
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
  First Version: November 2018. Latest Version: May 2020. 
