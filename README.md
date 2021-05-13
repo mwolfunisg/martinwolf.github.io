@@ -31,7 +31,7 @@ First Version: May 2019. Latest Version: April 2021.
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
  First Version: November 2018. Latest Version: May 2020. 
 
-
+<!--
 ### Teaching
 - *Introduction to Game Theory* (B.Sc.).  
 University of Zurich. Fall terms 2017-18. 
@@ -43,3 +43,4 @@ University of Basel. Fall terms 2011-12, 14-15, 17-18.
 University of Basel. Spring terms 2015-16, 18-19.
 - *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, tutoring only).  
 University of St. Gallen. Fall term 2020.
+-->
