@@ -19,6 +19,8 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 
 ### Current Research:
+- [Blockchains, Front-Running, and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
+First Version: Mai 2021.
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 First Version: December 2020.
 - [Crossing the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
