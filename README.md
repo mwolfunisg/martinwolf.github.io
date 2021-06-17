@@ -26,7 +26,7 @@ First Version: December 2020. Latest Version: May 2021.
 - [Crossing the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: August 2020.  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
- First Version: August 2018. Latest Version: September 2019. *R&R RAND*.   
+ First Version: August 2018. Latest Version: June 2021. *R&R RAND*.   
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
 First Version: May 2019. Latest Version: April 2021.   
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
