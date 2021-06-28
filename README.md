@@ -6,6 +6,8 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 
 ### Publications
+- [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
+ Accepted for Publication at *The RAND Journal of Economics*.
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 *Economic Theory*, 2020 (online first).
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
@@ -24,9 +26,7 @@ First Version: Mai 2021.
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 First Version: December 2020. Latest Version: May 2021.
 - [Crossing the Valley of Death: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
-First Version: March 2020. Latest Version: August 2020.  
-- [On Young Turks and Yes Men: Optimal Contracting for Advice](https://dx.doi.org/10.2139/ssrn.3229927) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
- First Version: August 2018. Latest Version: June 2021. *R&R RAND*.   
+First Version: March 2020. Latest Version: August 2020.     
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
 First Version: May 2019. Latest Version: April 2021.   
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
