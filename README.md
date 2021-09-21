@@ -29,7 +29,7 @@ First Version: December 2020. Latest Version: August 2021.
 First Version: March 2020. Latest Version: August 2021.   
 [[Supplementary Appendix](https://samuelhaefner.github.io/ShakeoutsStaggeredExitRnD_SupplementaryAppendix.pdf)]     
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
-First Version: May 2019. Latest Version: April 2021.   
+First Version: May 2019. Latest Version: April 2021. *Revise and Resubmit at Quantitative Economics*.   
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
  First Version: November 2018. Latest Version: May 2020. 
