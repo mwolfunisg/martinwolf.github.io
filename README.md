@@ -26,8 +26,7 @@ First Version: Mai 2021. Latest Version: August 2021.
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 First Version: December 2020. Latest Version: August 2021.
 - [On Shakeouts and Staggered Exit: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
-First Version: March 2020. Latest Version: August 2021.   
-[[Supplementary Appendix](https://samuelhaefner.github.io/ShakeoutsStaggeredExitRnD_SupplementaryAppendix.pdf)]     
+First Version: March 2020. Latest Version: October 2021.       
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
 First Version: May 2019. Latest Version: April 2021.     
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
