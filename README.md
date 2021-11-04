@@ -23,7 +23,7 @@ Accepted for Publication at *American Economic Journal: Microeconomics.*
 
 
 ### Current Research:
-- [Utility Token Design](https://ssrn.com/abstract=3954773)  
+- [Utility Token Design](https://ssrn.com/abstract=3954773).  
 First Version: November 2021.
 - [Front-Running, Smart Contracts, and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
 First Version: Mai 2021. Latest Version: August 2021.
