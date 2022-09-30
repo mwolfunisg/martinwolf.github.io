@@ -33,6 +33,9 @@ First Version: March 2020. Latest Version: October 2021.
 First Version: May 2019. Latest Version: August 2022.     
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 *Conditionally Accepted at Quantitative Economics*.
+
+
+
 <!--
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
  First Version: November 2018. Latest Version: May 2020. 
