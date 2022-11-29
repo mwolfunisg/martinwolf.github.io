@@ -11,9 +11,9 @@ Accepted for Publication at *American Economic Journal: Microeconomics.*
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 *The RAND Journal of Economics*, 53(1), 2022, 63-94.
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
-*Economic Theory*, 2020 (online first).
+*Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
-*Economic Theory*, 2019 (online first).
+*Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)
 - [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 *Games and Economic Behavior*, 107, 2018, 109-122.
 - [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
