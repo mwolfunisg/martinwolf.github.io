@@ -7,8 +7,8 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 ### Publications
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).     
+Accepted for Publication at *Quantitative Economics*.  
 [[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
-Accepted for Publication at *Quantitative Economics*.
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 Accepted for Publication at *American Economic Journal: Microeconomics.*
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
