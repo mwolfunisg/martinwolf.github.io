@@ -6,6 +6,9 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 
 ### Publications
+- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).     
+[[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
+Accepted for Publication at *Quantitative Economics*.
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 Accepted for Publication at *American Economic Journal: Microeconomics.*
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
@@ -29,10 +32,6 @@ First Version: November 2021. Latest Version: October 2022.
 First Version: Mai 2021. Latest Version: August 2021.
 - [On Shakeouts and Staggered Exit: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: October 2021.       
-- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).  
-First Version: May 2019. Latest Version: August 2022.     
-[[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
-*Conditionally Accepted at Quantitative Economics*.
 
 
 
