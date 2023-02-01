@@ -1,9 +1,8 @@
-I am a Research Economist at the [Web3 Foundation](https://web3.foundation/) in Zug. I analyze incentives in blockchain markets and in cryptographic protocols.
+I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
 
-I am a microeconomist by training. My main interests are in contract theory, contest theory, and auction theory.
+I am a microeconomist by training. My main interests are in contract theory, contest theory, and auction theory. I also analyze incentives in blockchain markets and in cryptographic protocols.
 
-I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch) and the [Institute of Economics](https://fgn.unisg.ch) at the University of St. Gallen.
-
+I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
 ### Publications
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).     
