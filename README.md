@@ -25,7 +25,7 @@ Accepted for Publication at *American Economic Journal: Microeconomics.*
 
 
 ### Current Research:
-- [On Shakeouts and Staggered Exit: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
+- [Shakeouts and Staggered Exits from an R&D Race between Externally-Funded Startups](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: March 2023.
 - [Blockchain Platform Design](https://ssrn.com/abstract=3954773).  
 First Version: November 2021. Latest Version: October 2022.
