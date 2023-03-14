@@ -25,12 +25,12 @@ Accepted for Publication at *American Economic Journal: Microeconomics.*
 
 
 ### Current Research:
+- [On Shakeouts and Staggered Exit: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
+First Version: March 2020. Latest Version: March 2023.
 - [Blockchain Platform Design](https://ssrn.com/abstract=3954773).  
 First Version: November 2021. Latest Version: October 2022.
 - [Front-Running, Smart Contracts, and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
 First Version: Mai 2021. Latest Version: August 2021.
-- [On Shakeouts and Staggered Exit: An R&D Race with Moral Hazard and Multiple Prizes](http://ssrn.com/abstract=3564033).  
-First Version: March 2020. Latest Version: October 2021.       
 
 
 
