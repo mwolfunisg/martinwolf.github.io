@@ -27,8 +27,8 @@ Accepted for Publication at *American Economic Journal: Microeconomics.*
 ### Current Research:
 - [Shakeouts and Staggered Exits from an R&D Race between Externally-Funded Startups](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: March 2023.
-- [Blockchain Platform Design](https://ssrn.com/abstract=3954773).  
-First Version: November 2021. Latest Version: October 2022.
+- [Optimal Decentralization and Service Provision on a Base-Layer Blockchain under Market Frictions](https://ssrn.com/abstract=3954773).  
+First Version: November 2021. Latest Version: March 2023.
 - [Front-Running, Smart Contracts, and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
 First Version: Mai 2021. Latest Version: August 2021.
 
