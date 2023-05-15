@@ -5,11 +5,10 @@ I am a microeconomist by training. My main interests are in contract theory, con
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
 ### Publications
-- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397027).     
-Accepted for Publication at *Quantitative Economics*.  
-[[Supplementary Appendix](https://samuelhaefner.github.io/SupplementaryAppendix.pdf)] [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 Accepted for Publication at *American Economic Journal: Microeconomics.*
+- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
+*Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 *The RAND Journal of Economics*, 53(1), 2022, 63-94.
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
@@ -40,6 +39,8 @@ First Version: Mai 2021. Latest Version: August 2021.
 
 
 ### Teaching
+- *Blockchain Markets* (M.Sc.).
+University of St. Gallen. Fall term 2023.
 - *Introduction to Game Theory* (B.Sc.).  
 University of Zurich. Fall terms 2017-18. 
 - *Contract Theory* (M.Sc.).  
