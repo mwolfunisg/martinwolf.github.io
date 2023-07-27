@@ -5,8 +5,8 @@ I am a microeconomist by training. My main interests are in contract theory, con
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
 ### Publications
-- [Working for References](https://ssrn.com/abstract=3746426) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-Accepted for Publication at *American Economic Journal: Microeconomics.*
+- [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
+*American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
