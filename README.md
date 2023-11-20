@@ -1,6 +1,6 @@
 I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
 
-My main interests are in contracts, contests, and auctions. I also study incentives in blockchain markets and in cryptographic protocols.
+My main interests are in topics of industrial organization, such as contracts and auctions. I also study incentives in blockchain markets and in cryptographic protocols.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
