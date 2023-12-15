@@ -23,7 +23,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 *Games*, Volume 7(3), 2016, p. 25.
 
 
-### Current Research:
+### Working Papers:
 - [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: September 2023.
 - [Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards](https://ssrn.com/abstract=3954773).  
@@ -31,6 +31,11 @@ First Version: November 2021. Latest Version: September 2023.
 - [Front-Running, Smart Contracts, and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
 First Version: Mai 2021. Latest Version: August 2021.
 
+### Teaching:
+- Introduction to Market Design (Bachelor's level).
+- Microeconomics for CS (Bachelor's level).
+- Blockchain Markets (Master's level).
+- Corporate Finance (Master's level).
 
 
 <!--
