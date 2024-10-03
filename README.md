@@ -26,12 +26,12 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Working Papers
 - [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).   
 First Version: October 2024.
-- [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/en/latest/team_members/alistair.html)).  
+- [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair)).  
 First Version: Mai 2021. Latest Version: Juli 2024.
 - [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: September 2023.
-<!-- [Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards](https://ssrn.com/abstract=3954773).  
-First Version: November 2021. Latest Version: September 2023.-->
+- [Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards](https://ssrn.com/abstract=3954773).  
+First Version: November 2021. Latest Version: September 2023.
 
 
 ### Teaching
