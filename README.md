@@ -28,7 +28,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 First Version: October 2024.
 - [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair)).  
 First Version: Mai 2021. Latest Version: Juli 2024.
-- [Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025526) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).
+- [Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025526) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).  
 First Version: November 2024.
 - [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: September 2023.
