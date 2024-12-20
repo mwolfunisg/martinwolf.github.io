@@ -3,12 +3,14 @@ I am an Assistant Professor of Monetary Economics at the [University of St. Gall
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
 ### What is new?
-- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)
-- 
+- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project [Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)](https://data.snf.ch/grants/grant/226520)
+- 11/24 My paper [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) has been accepted for publication at the American Economic Review
+- 10-12/24 I am visiting the Federal Reserve Bank of San Francisco as a guest researcher
+- 8/25 I am visiting the Bank of Finland as a guest researcher
 
 ### Publications
-- [The Global Financial Resource Curse]([https://www.aeaweb.org/articles?id=10.1257/mic.20210299](https://www.aeaweb.org/articles?id=10.1257/aer.20211792)) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).    
-*American Economic Review, 115(1), 2025, 1-43.
+- [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).    
+*American Economic Review*, 115(1), 2025, 1-43.
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
