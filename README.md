@@ -1,12 +1,14 @@
-I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
+I am an Assistant Professor of Monetary Economics at the [University of St. Gallen](https://www.unisg.ch), where I am based at the [Swiss Institute for International Economics and Applied Economic Research (SIAW)](https://siaw.unisg.ch/en/). Since 2019, I am also a Research Affiliate at the [CEPR](https://cepr.org). I obtained by PhD in Economics from the [University of Bonn](https://www.econ.uni-bonn.de/bgse/en) in 2017.
 
-My main interests are in topics of industrial organization, such as contracts and auctions. I also study incentives in blockchain markets and in cryptographic protocols.
+I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
-I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
+### WHat is new?
+- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)
+- 
 
 ### Publications
-- [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-*American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
+- [The Global Financial Resource Curse]([https://www.aeaweb.org/articles?id=10.1257/mic.20210299](https://www.aeaweb.org/articles?id=10.1257/aer.20211792)) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).    
+*American Economic Review, 115(1), 2025, 1-43.
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
