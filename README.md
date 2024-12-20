@@ -4,18 +4,18 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### What is new?
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project [Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)](https://data.snf.ch/grants/grant/226520)
-- 11/24 My paper [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) has been accepted for publication at the American Economic Review
+- 11/24 My paper [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) was accepted for publication at the American Economic Review
 - 10-12/24 I am visiting the Federal Reserve Bank of San Francisco as a guest researcher
 - 8/24 I am visiting the Bank of Finland as a guest researcher
 - 7/24 My paper [Delayed Overshooting: The Case for Information Rigidities](https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f) has appeared in the American Economic Journal: Macroeconomics
 
 ### Publications
 - [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).    
-*American Economic Review*, 115(1), January 2025, 1-43. [Replication Files](https://www.openicpsr.org/openicpsr/project/208605/version/V1/view).
+*American Economic Review*, 115(1), January 2025. [[Replication Files]](https://www.openicpsr.org/openicpsr/project/208605/version/V1/view).
 - [Delayed Overshooting: The Case for Information Rigidities](https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f) (with Thomas Hettig and [Gernot Müller](https://sites.google.com/site/muellergernot/)).     
 *American Economic Journal: Macroeconomics*, 16(3), July 2024. [[Replication Files](https://www.openicpsr.org/openicpsr/project/193087/version/V1/view)].  
-- [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
-*The RAND Journal of Economics*, 53(1), 2022, 63-94.
+- [The Scars of Supply Shocks: Implications for Monetary Policy](https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub) (with [Luca Fornaro](https://crei.cat/people/fornaro/)).  
+*Journal of Monetary Economics*, 140, November 2023, SI: Inflation: Drivers and Dynamics 2022. [[Replication Files]](https://www.dropbox.com/scl/fi/dlc1t6j4mb4jwgqmq3beo/Code.zip?rlkey=saatd8ey8u85kj6bajygj5zb5&e=1&dl=0) [[Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S0304393223000417-mmc1.pdf)
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
