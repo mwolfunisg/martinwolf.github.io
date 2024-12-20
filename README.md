@@ -6,13 +6,14 @@ I am a macroeconomist with broad research interests in international economics, 
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project [Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)](https://data.snf.ch/grants/grant/226520)
 - 11/24 My paper [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) has been accepted for publication at the American Economic Review
 - 10-12/24 I am visiting the Federal Reserve Bank of San Francisco as a guest researcher
-- 8/25 I am visiting the Bank of Finland as a guest researcher
+- 8/24 I am visiting the Bank of Finland as a guest researcher
+- 7/24 My paper [Delayed Overshooting: The Case for Information Rigidities](https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f) has appeared in the American Economic Journal: Macroeconomics
 
 ### Publications
 - [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).    
-*American Economic Review*, 115(1), 2025, 1-43.
-- [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
-*Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
+*American Economic Review*, 115(1), January 2025, 1-43. [Replication Files](https://www.openicpsr.org/openicpsr/project/208605/version/V1/view).
+- [Delayed Overshooting: The Case for Information Rigidities](https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f) (with Thomas Hettig and [Gernot Müller](https://sites.google.com/site/muellergernot/)).     
+*American Economic Journal: Macroeconomics*, 16(3), July 2024. [[Replication Files](https://www.openicpsr.org/openicpsr/project/193087/version/V1/view)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 *The RAND Journal of Economics*, 53(1), 2022, 63-94.
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
