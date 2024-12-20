@@ -2,7 +2,7 @@ I am an Assistant Professor of Monetary Economics at the [University of St. Gall
 
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
-### WHat is new?
+### What is new?
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)
 - 
 
