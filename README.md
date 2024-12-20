@@ -1,4 +1,4 @@
-I am an Assistant Professor of Monetary Economics at the [University of St. Gallen](https://www.unisg.ch), where I am based at the [Swiss Institute for International Economics and Applied Economic Research (SIAW)](https://siaw.unisg.ch/en/). Since 2019, I am also a Research Affiliate at the [CEPR](https://cepr.org). I obtained by PhD in Economics from the [University of Bonn](https://www.econ.uni-bonn.de/bgse/en) in 2017.
+I am an Assistant Professor of Monetary Economics at the [University of St. Gallen](https://www.unisg.ch), where I am based at the [Swiss Institute for International Economics and Applied Economic Research (SIAW)](https://siaw.unisg.ch/en/). Since 2019, I am also a Research Affiliate at the [CEPR](https://cepr.org). I obtained my PhD in Economics from the [University of Bonn](https://www.econ.uni-bonn.de/bgse/en) in 2017.
 
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
