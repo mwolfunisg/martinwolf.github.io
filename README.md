@@ -20,16 +20,16 @@ I am a macroeconomist with broad research interests in international economics, 
 *Journal of International Economics*, 139, November 2022, SI: Financial Frictions: Macroeconomic Implications and Policy Options for Emerging Economies [[Data]](https://data.mendeley.com/datasets/f8xvhct728/1) [[Replication Files]](https://data.mendeley.com/datasets/yv9mpth5zk/1). 
 - [Pecuniary Externalities in Economies with Downward Wage Rigidity](https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904).  
 *Journal of Monetary Economics*, 116, December 2020, 219-235. [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S0304393219301904-mmc2.pdf) [[Replication Files]](https://www.dropbox.com/scl/fi/b6yzpsvn4j00k29cpu1f2/Code.zip?rlkey=ydb2zfz8vts3f0pamb7ifbfb7&e=1&dl=0).
-- [Exit Expectations and Debt Crises in Currency Unions](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777) (with [Alexander Kriwoluzky](https://www.alexanderkriwoluzky.com/) and [Gernot Müller]((https://sites.google.com/site/muellergernot/))).   
+- [Exit Expectations and Debt Crises in Currency Unions](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777) (with [Alexander Kriwoluzky](https://www.alexanderkriwoluzky.com/) and [Gernot Müller](https://sites.google.com/site/muellergernot/)).   
 *Journal of International Economics*, 121, November 2019. [[Online Appendix]](https://www.dropbox.com/scl/fi/s3cw4hesxe1xf93r9goiw/Exit_OnlineAppendix.pdf?rlkey=rybl5kgjd3pfma0lnq049qozn&st=d0kul3e8&dl=0) [[Replication Files]](https://www.dropbox.com/scl/fi/diadnmswfhgtk9r8istfh/Code.zip?rlkey=tuevvn8o8mu8b8m9oeppd4ky9&st=7qsr0iz3&dl=0).
 - [Step Away from the Zero Lower Bound: Small Open Economies in a World of Secular Stagnation](https://www.sciencedirect.com/science/article/abs/pii/S002219961830254X?via%3Dihub) (with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/), Eleonora Mavroeidi and [Gregory Thwaites](https://www.gregorythwaites.com/)).  
 *Journal of International Economics*, 116, January 2019, 88-102.
-- [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
-*Games*, Volume 7(3), 2016, p. 25.
+- [Deleveraging, Deflation and Depreciation in the Euro Area](https://www.sciencedirect.com/science/article/abs/pii/S001429211630037X) (with [Dmitry Kuvshinov](https://dkuvshinov.com/) and [Gernot Müller](https://sites.google.com/site/muellergernot/)).  
+  European Economic Review*, 88, September 2016, 42-66. 
 
 
 ### Working Papers
-- [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).   
+- [Fear of Hiking? Rising Interest Rates in Times of High Public Debt](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).   
 First Version: October 2024.
 - [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair)).  
 First Version: Mai 2021. Latest Version: Juli 2024.
@@ -41,28 +41,8 @@ First Version: March 2020. Latest Version: September 2023.
 First Version: November 2021. Latest Version: September 2023.
 
 
-### Teaching
-- Introduction to Market Design (Bachelor).
-- Microeconomics for CS (Bachelor).
-- Blockchain Markets (Master).
-- Corporate Finance (Master).
-
-<!--
-- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
- First Version: November 2018. Latest Version: May 2020. 
-
-
-### Teaching
-- *Blockchain Markets* (M.Sc.).
-University of St. Gallen. Fall term 2023.
-- *Introduction to Game Theory* (B.Sc.).  
-University of Zurich. Fall terms 2017-18. 
-- *Contract Theory* (M.Sc.).  
-University of Basel. Spring terms 2014-15, 16, 18. 
-- *Contest Theory* (M.Sc., "Ökonomische Theorie der Wettkämpfe'',  in German).  
-University of Basel. Fall terms 2011-12, 14-15, 17-18. 
-- *Insurance Economics* (B.Sc., "Versicherungsökonomie'', in German).  
-University of Basel. Spring terms 2015-16, 18-19.
-- *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, tutoring only).  
-University of St. Gallen. Fall term 2020.
--->
+### Current Teaching
+- Monetary Economics (Bachelor).
+- International Economics (Bachelor).
+- Advanced Macroeconomics III (Master).
+- International Economics (Master).
