@@ -17,13 +17,13 @@ I am a macroeconomist with broad research interests in international economics, 
 - [The Scars of Supply Shocks: Implications for Monetary Policy](https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub) (with [Luca Fornaro](https://crei.cat/people/fornaro/)).  
 *Journal of Monetary Economics*, 140, November 2023, SI: Inflation: Drivers and Dynamics 2022. [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S0304393223000417-mmc1.pdf) [[Replication Files]](https://www.dropbox.com/scl/fi/dlc1t6j4mb4jwgqmq3beo/Code.zip?rlkey=saatd8ey8u85kj6bajygj5zb5&e=1&dl=0).
 - [Reserve Accumulation, Growth, and Financial Crises](https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).   
-*Journal of International Economics*, 139, November 2022, SI: Financial Frictions: Macroeconomic Implications and Policy Options for Emerging Economies [[Code]](https://data.mendeley.com/datasets/yv9mpth5zk/1) [[Data]](https://data.mendeley.com/datasets/f8xvhct728/1). 
+*Journal of International Economics*, 139, November 2022, SI: Financial Frictions: Macroeconomic Implications and Policy Options for Emerging Economies [[Data]](https://data.mendeley.com/datasets/f8xvhct728/1) [[Replication Files]](https://data.mendeley.com/datasets/yv9mpth5zk/1). 
 - [Pecuniary Externalities in Economies with Downward Wage Rigidity](https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904).  
 *Journal of Monetary Economics*, 116, December 2020, 219-235. [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S0304393219301904-mmc2.pdf) [[Replication Files]](https://www.dropbox.com/scl/fi/b6yzpsvn4j00k29cpu1f2/Code.zip?rlkey=ydb2zfz8vts3f0pamb7ifbfb7&e=1&dl=0).
-- [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
-*Games and Economic Behavior*, 107, 2018, 109-122.
-- [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
-*Games and Economic Behavior*, 104, 2017, 372-391.
+- [Exit Expectations and Debt Crises in Currency Unions](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777) (with [Alexander Kriwoluzky](https://www.alexanderkriwoluzky.com/) and [Gernot Müller]((https://sites.google.com/site/muellergernot/))).   
+*Journal of International Economics*, 121, November 2019. [[Online Appendix]](https://www.dropbox.com/scl/fi/s3cw4hesxe1xf93r9goiw/Exit_OnlineAppendix.pdf?rlkey=rybl5kgjd3pfma0lnq049qozn&st=d0kul3e8&dl=0) [[Replication Files]](https://www.dropbox.com/scl/fi/diadnmswfhgtk9r8istfh/Code.zip?rlkey=tuevvn8o8mu8b8m9oeppd4ky9&st=7qsr0iz3&dl=0).
+- [Step Away from the Zero Lower Bound: Small Open Economies in a World of Secular Stagnation](https://www.sciencedirect.com/science/article/abs/pii/S002219961830254X?via%3Dihub) (with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/), Eleonora Mavroeidi and [Gregory Thwaites](https://www.gregorythwaites.com/)).  
+*Journal of International Economics*, 116, January 2019, 88-102.
 - [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
 *Games*, Volume 7(3), 2016, p. 25.
 
