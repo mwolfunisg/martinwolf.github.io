@@ -19,7 +19,7 @@ I am a macroeconomist with broad research interests in international economics, 
 - [Reserve Accumulation, Growth, and Financial Crises](https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf) (with [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno) and [Luca Fornaro](https://crei.cat/people/fornaro/)).   
 *Journal of International Economics*, 139, November 2022, SI: Financial Frictions: Macroeconomic Implications and Policy Options for Emerging Economies [[Code]](https://data.mendeley.com/datasets/yv9mpth5zk/1) [[Data]](https://data.mendeley.com/datasets/f8xvhct728/1). 
 - [Pecuniary Externalities in Economies with Downward Wage Rigidity](https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904).  
-*Journal of Monetary Economics*, 116, 2022, 1103–1140. (Online first: 2019.)
+*Journal of Monetary Economics*, 116, December 2020, 219-235. [[Online Appendix]] (https://ars.els-cdn.com/content/image/1-s2.0-S0304393219301904-mmc2.pdf) [[Replication Files]] (https://www.dropbox.com/scl/fi/b6yzpsvn4j00k29cpu1f2/Code.zip?rlkey=ydb2zfz8vts3f0pamb7ifbfb7&e=1&dl=0).
 - [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 *Games and Economic Behavior*, 107, 2018, 109-122.
 - [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
