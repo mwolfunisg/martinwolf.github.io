@@ -16,7 +16,7 @@ I am a macroeconomist with broad research interests in international economics, 
 *American Economic Journal: Macroeconomics*, 16(3), July 2024. [[Online Appendix]](https://www.aeaweb.org/content/file?id=21024) [[Replication Files](https://www.openicpsr.org/openicpsr/project/193087/version/V1/view)].  
 - [The Scars of Supply Shocks: Implications for Monetary Policy](https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub) (with [Luca Fornaro](https://crei.cat/people/fornaro/)).  
 *Journal of Monetary Economics*, 140, November 2023, SI: Inflation: Drivers and Dynamics 2022. [[Online Appendix]](https://ars.els-cdn.com/content/image/1-s2.0-S0304393223000417-mmc1.pdf) [[Replication Files]](https://www.dropbox.com/scl/fi/dlc1t6j4mb4jwgqmq3beo/Code.zip?rlkey=saatd8ey8u85kj6bajygj5zb5&e=1&dl=0).
-- [Reserve Accumulation, Growth, and Financial Crises]([https://doi.org/10.1007/s00199-020-01287-9](https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf))  
+- [Reserve Accumulation, Growth, and Financial Crises](https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf)  
 *Journal of International Economics*, 139, November 2022, SI: Financial Frictions: Macroeconomic Implications and Policy Options for Emerging Economies [[Code]](https://data.mendeley.com/datasets/yv9mpth5zk/1) [[Data]](https://data.mendeley.com/datasets/f8xvhct728/1)  
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
 *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)
