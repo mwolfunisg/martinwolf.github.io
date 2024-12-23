@@ -29,7 +29,7 @@ I am a macroeconomist with broad research interests in international economics, 
 
 
 ### Working Papers
-- <a href="https://papers.ssrn.com/abstract=4974874" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>
+- <a href="https://papers.ssrn.com/abstract=4974874" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>   
 First Version: December 2021. This Version: January 2021.
 - [Monetary Policy in the Age of Automation](https://ssrn.com/abstract=3846363) (with Luca Fornaro).  
 First Version: November 2021. This Version: September 2022.
