@@ -10,26 +10,26 @@ I am a macroeconomist with broad research interests in international economics, 
 - 7/24 My paper "Delayed Overshooting: The Case for Information Rigidities" has appeared in the American Economic Journal: Macroeconomics
 
 ### Publications
-- [The Global Financial Resource Curse](https://www.aeaweb.org/articles?id=10.1257/aer.20211792) (with Gianluca Benigno and Luca Fornaro.   
+- <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
 *American Economic Review*, 115(1), January 2025.
-- [Delayed Overshooting: The Case for Information Rigidities](https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f) (with Thomas Hettig and Gernot Müller).     
+- <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
 *American Economic Journal: Macroeconomics*, 16(3), July 2024.  
-- [The Scars of Supply Shocks: Implications for Monetary Policy](https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub) (with Luca Fornaro).  
+- <a href="https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub" target="_blank">The Scars of Supply Shocks: Implications for Monetary Policy</a>v(with Luca Fornaro).  
 *Journal of Monetary Economics*, 140, November 2023 (SI).
-- [Reserve Accumulation, Growth, and Financial Crises](https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf) (with Gianluca Benigno and Luca Fornaro).   
+- <a href="[https://crei.cat/wp-content/uploads/2022/12/RAGFC-pub-1.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000927)" target="_blank">Reserve Accumulation, Growth, and Financial Crises</a> (with Gianluca Benigno and Luca Fornaro).  
 *Journal of International Economics*, 139, November 2022 (SI). 
-- [Pecuniary Externalities in Economies with Downward Wage Rigidity](https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904).  
+- <a href="[https://www.example.com](https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904)" target="_blank">Pecuniary Externalities in Economies with Downward Wage Rigidity</a>  
 *Journal of Monetary Economics*, 116, December 2020, 219-235.
-- [Exit Expectations and Debt Crises in Currency Unions](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777) (with Alexander Kriwoluzky and Gernot Müller).   
+- <a href="[https://www.example.com](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777)" target="_blank">Exit Expectations and Debt Crises in Currency Unions</a> (with Alexander Kriwoluzky and Gernot Müller).   
 *Journal of International Economics*, 121, November 2019.
-- [Step Away from the Zero Lower Bound: Small Open Economies in a World of Secular Stagnation](https://www.sciencedirect.com/science/article/abs/pii/S002219961830254X?via%3Dihub) (with Giancarlo Corsetti, Eleonora Mavroeidi and Gregory Thwaites).  
+- <a href="[https://www.example.com](https://www.sciencedirect.com/science/article/abs/pii/S002219961830254X?via%3Dihub)" target="_blank">Step Away from the Zero Lower Bound: Small Open Economies in a World of Secular Stagnation</a> (with Giancarlo Corsetti, Eleonora Mavroeidi and Gregory Thwaites).  
 *Journal of International Economics*, 116, January 2019, 88-102.
-- [Deleveraging, Deflation and Depreciation in the Euro Area](https://www.sciencedirect.com/science/article/abs/pii/S001429211630037X) (with Dmitry Kuvshinov and Gernot Müller).  
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S001429211630037X" target="_blank">Deleveraging, Deflation and Depreciation in the Euro Area</a> (with Dmitry Kuvshinov and Gernot Müller).  
 *European Economic Review*, 88, September 2016, 42-66 (SI). 
 
 
 ### Working Papers
-- <a href="[https://www.example.com](https://papers.ssrn.com/abstract=4974874)" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>
+- <a href="[https://papers.ssrn.com/abstract=4974874]" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>
 First Version: December 2021. This Version: January 2021.
 - [Monetary Policy in the Age of Automation](https://ssrn.com/abstract=3846363) (with Luca Fornaro).  
 First Version: November 2021. This Version: September 2022.
