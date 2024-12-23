@@ -34,7 +34,7 @@ First Version: December 2021. This Version: January 2021.
 First Version: November 2021. This Version: September 2022.
 
 ### Other Writings
-- Covid-19 Coronavirus and Macroeconomic Policy
+- <a href="./corona_v2.pdf" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro)  
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
