@@ -27,16 +27,14 @@ I am a macroeconomist with broad research interests in international economics, 
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S001429211630037X" target="_blank">Deleveraging, Deflation and Depreciation in the Euro Area</a> (with Dmitry Kuvshinov and Gernot Müller).  
 *European Economic Review*, 88, September 2016, 42-66 (SI). 
 
-
 ### Working Papers
-- <a href="https://papers.ssrn.com/abstract=4974874" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>   
+- <a href="./FearOfHiking_Jan2024.pdf" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>   
 First Version: December 2021. This Version: January 2021.
-- [Monetary Policy in the Age of Automation](https://ssrn.com/abstract=3846363) (with Luca Fornaro).  
+- <a href="./mpaut_sept2022.pdf" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
 First Version: November 2021. This Version: September 2022.
 
-
 ### Other Writings
-- [Covid-19 Coronavirus and Macroeconomic Policy]()
+- Covid-19 Coronavirus and Macroeconomic Policy
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
