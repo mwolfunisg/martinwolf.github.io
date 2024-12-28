@@ -12,7 +12,7 @@ I am a macroeconomist with broad research interests in international economics, 
 ### Publications
 - <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
 *American Economic Review*, 115(1), January 2025.
-<a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="10" height="10"> </a> <a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="10" height="10"> </a> <a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="10" height="10"> </a>
+<a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
 *American Economic Journal: Macroeconomics*, 16(3), July 2024.  
 - <a href="https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub" target="_blank">The Scars of Supply Shocks: Implications for Monetary Policy</a>v(with Luca Fornaro).  
