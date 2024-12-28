@@ -32,13 +32,14 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
-- <a href="./FearOfHiking_Jan2024.pdf" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a>   
-First Version: December 2021. This Version: January 2021.
-- <a href="./mpaut_sept2022.pdf" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
-First Version: November 2021. This Version: September 2022.
+- <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
+*CEPR Discussion Paper* 16837, January 2024. <a href="FearOfHiking_Jan2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- <a href="https://cepr.org/publications/dp16416" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
+*CEPR Discussion Paper* 16416, September 2022. <a href="mpaut_sept2022.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Other Writings
-- <a href="./corona_v2.pdf" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro)  
+- <a href="https://cepr.org/publications/dp14529" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro).
+*CEPR Discussion Paper* 14529, March 2020. <a href="corona_v2.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
