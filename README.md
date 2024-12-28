@@ -20,7 +20,8 @@ I am a macroeconomist with broad research interests in international economics, 
 *Journal of Monetary Economics*, 140, November 2023 (SI).
 <a href="./TSS-pub-1.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="https://www.dropbox.com/scl/fi/dlc1t6j4mb4jwgqmq3beo/Code.zip?rlkey=saatd8ey8u85kj6bajygj5zb5&dl=0" target="_blank"><img border="0" alt="X" src="tool.png" width="12" height="12"></a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022199622000927" target="_blank">Reserve Accumulation, Growth, and Financial Crises</a> (with Gianluca Benigno and Luca Fornaro).  
-*Journal of International Economics*, 139, November 2022 (SI). 
+*Journal of International Economics*, 139, November 2022 (SI).
+<a href="./RAGFC-pub-1.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393219301904" target="_blank">Pecuniary Externalities in Economies with Downward Wage Rigidity</a>  
 *Journal of Monetary Economics*, 116, December 2020, 219-235.
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777" target="_blank">Exit Expectations and Debt Crises in Currency Unions</a> (with Alexander Kriwoluzky and Gernot Müller).   
