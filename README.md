@@ -2,11 +2,11 @@ I am an Assistant Professor of Monetary Economics at the University of St. Galle
 
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
-### What is new?
-- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
+### News
+- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC Strarting Grant equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
 - 11/24 My paper "The Global Financial Resource Curse" was accepted for publication at the American Economic Review
-- 10-12/24 I am visiting the Federal Reserve Bank of San Francisco as a guest researcher
-- 8/24 I am visiting the Bank of Finland as a guest researcher
+- 10-12/24 I am visiting the Federal Reserve Bank of San Francisco
+- 8/24 I am visiting the Bank of Finland
 - 7/24 My paper "Delayed Overshooting: The Case for Information Rigidities" has appeared in the American Economic Journal: Macroeconomics
 
 ### Publications
