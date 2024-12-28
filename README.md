@@ -14,7 +14,8 @@ I am a macroeconomist with broad research interests in international economics, 
 *American Economic Review*, 115(1), January 2025.
 <a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="./globfincurse_OnlineAppendix.pdf" target="_blank"><img border="0" alt="X" src="plus.png" width="12" height="12"></a> <a href="https://www.openicpsr.org/openicpsr/project/208605/version/V1/view" target="_blank"><img border="0" alt="X" src="tool.png" width="12" height="12"></a>
 - <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
-*American Economic Journal: Macroeconomics*, 16(3), July 2024.  
+*American Economic Journal: Macroeconomics*, 16(3), July 2024.
+<a href="./DelayedOvershooting_2023Feb.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="https://www.aeaweb.org/content/file?id=21024" target="_blank"><img border="0" alt="X" src="plus.png" width="12" height="12"></a> <a href="https://www.openicpsr.org/openicpsr/project/193087/version/V1/view" target="_blank"><img border="0" alt="X" src="tool.png" width="12" height="12"></a>
 - <a href="https://www.sciencedirect.com/science/article/pii/S0304393223000417?via%3Dihub" target="_blank">The Scars of Supply Shocks: Implications for Monetary Policy</a>v(with Luca Fornaro).  
 *Journal of Monetary Economics*, 140, November 2023 (SI).
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022199622000927" target="_blank">Reserve Accumulation, Growth, and Financial Crises</a> (with Gianluca Benigno and Luca Fornaro).  
